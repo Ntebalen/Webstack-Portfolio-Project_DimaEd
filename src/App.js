@@ -10,11 +10,11 @@ import FooterContainer from "./container/FooterContainer";
 function App() {
   return (
     <>
-      {/* Yuko */}
+      
       <HeaderContainer />
-      {/* Lily */}
+      
       <CourseSelectionContainer />
-      {/* Phoebe */}
+    
       <StudentsViewingContainer />
       {/* Ayako */}
       <TopCategoriesContainer />
