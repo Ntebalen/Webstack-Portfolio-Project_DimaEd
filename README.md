@@ -46,4 +46,5 @@ The purpose of the DimaEd landing page project was twofold: firstly, to challeng
 
 ## Demo Link
 Url : https://webstack-portfolio-project-dima-ed-charles-projects-94ccf21d.vercel.app/
+video : https://1drv.ms/v/s!Avwl3yp1QsMjj2iyGIvVMtYUmRfS?e=CGDcHj
 
