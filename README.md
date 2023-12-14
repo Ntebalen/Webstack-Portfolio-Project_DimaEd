@@ -1,33 +1,22 @@
-# Clone Udemy
+# Clone Udemy : DimaEd
+## Project Overview
+DimaEd's Core Objectives: The landing page aims to serve as a visual gateway, offering a glimpse into the world of DimaEd. Its primary objectives are to evoke interest, communicate the essence of a robust learning environment, and encourage further exploration.
 
-A group project to clone Udemy Landing page.
+Creator: As a solo creator, I managed the entire lifecycle of DimaEd, from conceptualization and design to development and deployment.
 
 ## Screenshot
-<img width="500" src="https://user-images.githubusercontent.com/67321065/157141474-b4be1336-063f-4d84-b7a4-a442a6845f61.png" alt="clone udemy" />
+
+![image](https://github.com/Ntebalen/Webstack-Portfolio-Project_DimaEd/assets/100698269/8770e566-12de-4316-853e-ec6ba9054a09)
+
 
 ## Purpose
-
-- Get used to group work with GitHub, Slack, and Trello
-- Deepen understanding about React and React related libraries such as styled-components and Material UI
+The purpose of the DimaEd landing page project was twofold: firstly, to challenge and strengthen my front-end development skills by tackling a comprehensive solo project, and secondly, to create a visually engaging portfolio piece that reflects my growth and proficiency in crafting user-friendly interfaces. Inspired by Udemy, this endeavor was driven by a personal commitment to overcome discomfort with front-end work, pushing boundaries to create an impactful and visually appealing representation of a potential online learning platform.
 
 ## Challenges
 
-- To avoid unnecessary merge conflicts: We practiced using GitHub [here](https://github.com/Lada496/github-practice) before this project. (Releated article: [GitHub: We Are Save Main Repository Committee](https://dev.to/lada496/github-we-are-save-main-repository-committee-2cb4), )
-- To use issues to communicate via GitHub (Releated article: [GitHub: Understand issue close keywords with experiments](https://dev.to/lada496/github-understand-issue-close-keywords-with-experiments-2n5c))
-- To share individual tasks together: We uesd Slack and Trello
-  <img width="1432" alt="Screen Shot 2022-02-28 at 19 15 02" src="https://user-images.githubusercontent.com/67321065/156828276-b8e641f2-5778-4c93-8a42-fe64c4770da4.png">
+- Challenges faced during development: As a solo developer, managing time effectively while maintaining simplicity was a key challenge. Additionally, ensuring that the landing page resonated with users required a fine balance between content and design.
 
-### Personal Challenges
-
-- [Yuko](https://github.com/Lada496): Create categories' menu list by using material ui, context API, and useReducer
-  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67321065/156828182-73cf0477-6fb6-4793-995a-a04046baac99.gif)
-
-- [Ayako](https://github.com/Ayako-Yokoe): Using GitHub, especially understanding pull request workflow and the GitHub terms was challenging until I got used to it.
-
-- [Phoebe](https://github.com/phoebehala): Created the StudentsViewing section and refactored codes by making these components reusable
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/83237024/156981798-db246a6a-8365-4ad1-ab09-fe960e1e8a3e.gif)
-- [Lily](https://github.com/sh32321): Implemented a carousel function to each course lists.  
-  
+ - Solutions implemented: Streamlining the design process, focusing on key features, and incorporating visual storytelling were instrumental in overcoming these challenges.
 
 ## Buit With
 
@@ -35,7 +24,3 @@ A group project to clone Udemy Landing page.
 - styled-components
 - Material UI
 - react-items-carousel
-
-## Demo Link
-
-URL: https://clone-udemy-landing-page.netlify.app
