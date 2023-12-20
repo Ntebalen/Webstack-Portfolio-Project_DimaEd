@@ -16,7 +16,7 @@ function App() {
       <CourseSelectionContainer />
     
       <StudentsViewingContainer />
-      {/* Ayako */}
+    
       <TopCategoriesContainer />
       <FeaturedTopicsContainer />
       <AdvertisementContainer />
